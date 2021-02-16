@@ -1,2 +1,2 @@
 # IncluseUs
-codificação da plataforma IncluseUs.
+Códigos da plataforma.
