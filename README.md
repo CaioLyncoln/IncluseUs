@@ -1,2 +1,0 @@
-# IncluseUs
-Códigos da plataforma.
